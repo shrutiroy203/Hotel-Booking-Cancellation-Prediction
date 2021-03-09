@@ -2,8 +2,8 @@
 
 Once during my trip, I had an interesting conversation with a BnB owner who mentioned how people cancelling at the last moment was affecting her. When I came across this data, I immediately recalled that conversation and thought - is there a way to pre-emptively identify if a user is going to cancel their booking? This can help hotel/BnB owners save a lot of money and utilities!
 
-I acquired the data from Hotel Booking Datasets (https://www.sciencedirect.com/science/article/pii/S2352340918315191). 
+I acquired the data from [Hotel Booking Datasets](https://www.sciencedirect.com/science/article/pii/S2352340918315191). 
 
 I used Random Forest, Regularised Logistic Regression and XgBoost to identify the propensity of a booking getting cancelled. After hyperparameter tuning and cross-validation, I was able to predict the cancelation with 88.7% accuracy!
 
-Here is the notebook (https://deepnote.com/project/aa268a46-3542-4a0a-85f2-14c43bc3e6e2). I hope you find this project as interesting as I did!
+Here is the [notebook](https://deepnote.com/project/aa268a46-3542-4a0a-85f2-14c43bc3e6e2). I hope you find this project as interesting as I did!

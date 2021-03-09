@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+## Hello there! I am a Masters student in Data science, at University of San Francisco. In my free time I love travelling and playing with data!
 
-You can use the [editor on GitHub](https://github.com/shrutiroy203/Hotel-Booking-Cancellation-Prediction/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Once during my trip, I had an interesting conversation with a BnB owner who mentioned how people cancelling at the last moment was affecting her. When I came across this data, I immediately recalled that conversation and thought - is there a way to pre-emptively identify if a user is going to cancel their booking? This can help hotel/BnB owners save a lot of money and utilities!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I acquired the data from Hotel Booking Datasets (https://www.sciencedirect.com/science/article/pii/S2352340918315191). 
 
-### Markdown
+I used Random Forest, Regularised Logistic Regression and XgBoost to identify the propensity of a booking getting cancelled. After hyperparameter tuning and cross-validation, I was able to predict the cancelation with 88.7% accuracy!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shrutiroy203/Hotel-Booking-Cancellation-Prediction/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Here is the notebook (https://deepnote.com/project/aa268a46-3542-4a0a-85f2-14c43bc3e6e2). I hope you find this project as interesting as I did!

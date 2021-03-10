@@ -1,6 +1,6 @@
 ## Hello there! I am a Masters student in Data science, at University of San Francisco. In my free time I love travelling and playing with data!
 
-TL;DR Here is the [project code]((https://deepnote.com/project/aa268a46-3542-4a0a-85f2-14c43bc3e6e2#%2FHotel-Booking-Cancellation-Prediction%2FHotel%20Booking%20Cancellation%20Prediction.ipynb)
+TL;DR Here is the [project code](https://deepnote.com/project/aa268a46-3542-4a0a-85f2-14c43bc3e6e2#%2FHotel-Booking-Cancellation-Prediction%2FHotel%20Booking%20Cancellation%20Prediction.ipynb)
 
 In Covid era, the world economy was hit. A large part was the travel industry which included hotels, as they faced a large number of cancellations. But cancellations is a problem that Hotels have been facing since a long time. It can become a big sunk cost for the hotels when a person cancels at the last moment:
 

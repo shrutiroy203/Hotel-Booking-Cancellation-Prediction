@@ -17,6 +17,5 @@ When I came across this data, the first thought that I had was: is there a way t
 
 I acquired the data from [Hotel Booking Datasets](https://www.sciencedirect.com/science/article/pii/S2352340918315191). 
 
-I used Random Forest, Regularised Logistic Regression and XgBoost to identify the propensity of a booking getting cancelled. After hyperparameter tuning and cross-validation, I was able to predict the cancelation with 88.7% accuracy.
-
-Here is the [notebook](https://deepnote.com/project/aa268a46-3542-4a0a-85f2-14c43bc3e6e2#%2FHotel-Booking-Cancellation-Prediction%2FHotel%20Booking%20Cancellation%20Prediction.ipynb). I hope you find this project as interesting as I did!
+### Lets get started! 
+Here is the [notebook](https://deepnote.com/project/aa268a46-3542-4a0a-85f2-14c43bc3e6e2#%2FHotel-Booking-Cancellation-Prediction%2FHotel%20Booking%20Cancellation%20Prediction.ipynb). I used Random Forest, Regularised Logistic Regression and XgBoost to identify the propensity of a booking getting cancelled. After hyperparameter tuning and cross-validation, I was able to predict the cancelation with 88.7% accuracy. I hope you find this project as interesting as I did!

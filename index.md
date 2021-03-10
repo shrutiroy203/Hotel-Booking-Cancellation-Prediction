@@ -9,7 +9,7 @@ In Covid era, the world economy was hit. A large part was the travel industry wh
 <img src="Screen Shot 2021-03-09 at 5.38.19 PM.png" class="img-responsive" alt=""> 
 
 
-When I came across this data, the first thought that I had was: is there a way to pre-emptively identify if a user is going to cancel their booking? This can help hotel/BnB owners save a lot of money and utilities!
+When I came across the booking [data](https://www.sciencedirect.com/science/article/pii/S2352340918315191), the first thought that I had was: is there a way to pre-emptively identify if a user is going to cancel their booking? This can help hotel/BnB owners save a lot of money and utilities!
 
 ### Any data science project consists of four steps:
 

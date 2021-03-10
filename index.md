@@ -1,6 +1,6 @@
 
 
-<img src="Screen Shot 2021-03-09 at 5.37.37 PM.png" class="img-responsive" alt=""> </div>
+<img src="Screen Shot 2021-03-09 at 5.37.37 PM.png" class="img-responsive" alt=""> 
 
 ## Hello there! I am a Masters student in Data science, at University of San Francisco. In my free time I love travelling and playing with data!
 

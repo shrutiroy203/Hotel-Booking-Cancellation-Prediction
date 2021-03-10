@@ -1,6 +1,11 @@
 ## Hello there! I am a Masters student in Data science, at University of San Francisco. In my free time I love travelling and playing with data!
 
-Once during my trip, I had an interesting conversation with a BnB owner who mentioned how people cancelling at the last moment was affecting her. When I came across this data, I immediately recalled that conversation and thought - is there a way to pre-emptively identify if a user is going to cancel their booking? This can help hotel/BnB owners save a lot of money and utilities!
+In Covid era, the world economy was hit. A large part was the travel industry which included hotels, as they faced a large number of cancellations. But cancellations is a problem that Hotels have been facing since a long time. It can become a big sunk cost for the hotels when a person cancels at the last moment:
+
+![alt text](https://github.com/shrutiroy203/Hotel-Booking-Cancellation-Prediction/blob/gh-pages/Screen%20Shot%202021-03-09%20at%205.38.19%20PM.png)
+
+
+When I came across this data, I immediately recalled that conversation and thought - is there a way to pre-emptively identify if a user is going to cancel their booking? This can help hotel/BnB owners save a lot of money and utilities!
 
 I acquired the data from [Hotel Booking Datasets](https://www.sciencedirect.com/science/article/pii/S2352340918315191). 
 

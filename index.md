@@ -1,6 +1,6 @@
 
 
-![alt text](https://github.com/shrutiroy203/Hotel-Booking-Cancellation-Prediction/blob/gh-pages/Screen%20Shot%202021-03-09%20at%205.37.37%20PM.png)
+<img src="Screen Shot 2021-03-09 at 5.37.37 PM.png" class="img-responsive" alt=""> </div>
 
 ## Hello there! I am a Masters student in Data science, at University of San Francisco. In my free time I love travelling and playing with data!
 

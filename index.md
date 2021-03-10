@@ -5,9 +5,11 @@ In Covid era, the world economy was hit. A large part was the travel industry wh
 ![alt text](https://github.com/shrutiroy203/Hotel-Booking-Cancellation-Prediction/blob/gh-pages/Screen%20Shot%202021-03-09%20at%205.38.19%20PM.png)
 
 
-When I came across this data, I immediately recalled that conversation and thought - is there a way to pre-emptively identify if a user is going to cancel their booking? This can help hotel/BnB owners save a lot of money and utilities!
+When I came across this data, the first thought that I had was: is there a way to pre-emptively identify if a user is going to cancel their booking? This can help hotel/BnB owners save a lot of money and utilities!
 
 I acquired the data from [Hotel Booking Datasets](https://www.sciencedirect.com/science/article/pii/S2352340918315191). 
+
+![alt text](https://github.com/shrutiroy203/Hotel-Booking-Cancellation-Prediction/blob/gh-pages/Screen%20Shot%202021-03-09%20at%205.37.37%20PM.png)
 
 I used Random Forest, Regularised Logistic Regression and XgBoost to identify the propensity of a booking getting cancelled. After hyperparameter tuning and cross-validation, I was able to predict the cancelation with 88.7% accuracy.
 

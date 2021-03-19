@@ -15,6 +15,15 @@ When I came across the booking [data](https://www.sciencedirect.com/science/arti
 
 I used the data from [Hotel Booking Datasets](https://www.sciencedirect.com/science/article/pii/S2352340918315191). 
 
+### Models used in the project
+1. Random Forest
+2. Regularised Logistic Regression
+3. XgBoost
+
+### Feature Importance
+
+Permutation Importance has been used to establish feature importance in the chosen model
+
 ### Lets get started! 
 Here is the [notebook](https://deepnote.com/project/aa268a46-3542-4a0a-85f2-14c43bc3e6e2#%2FHotel-Booking-Cancellation-Prediction%2FHotel%20Booking%20Cancellation%20Prediction.ipynb). I used Random Forest, Regularised Logistic Regression and XgBoost to identify the propensity of a booking getting cancelled. After hyperparameter tuning and cross-validation, I was able to predict the cancelation with 88.7% accuracy. I hope you find this project as interesting as I did!
 
